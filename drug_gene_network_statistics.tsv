@@ -1,0 +1,12 @@
+Metric	Value
+Total Genes	853.0
+Total Drugs	847.0
+Total Connections	2490.0
+Avg Drugs per Gene	2.9191090269636577
+Avg Genes per Drug	2.9397874852420305
+Max Drugs per Gene	113.0
+Max Genes per Drug	40.0
+Genes affecting 1 drug	555.0
+Genes affecting 5+ drugs	99.0
+Drugs with 1 gene	461.0
+Drugs with 5+ genes	134.0
